@@ -1,3 +1,10 @@
 Hai GIT HUB
 I would like to deep dive in to GIT.
 This is my first document
+The following code is a sample python program:
+ print "enter any number"
+ n=int(raw_input())
+ if n%2==0 :
+    print "even number"
+ else:
+    print "odd number"
